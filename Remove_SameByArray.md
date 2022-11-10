@@ -42,10 +42,3 @@ public int removeDuplicates(int[] nums) {
  }
 
 }
-<<<<<<< HEAD
-=======
-
-}
-```
-
->>>>>>> f6736ff (my first commit)
